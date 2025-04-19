@@ -44,7 +44,7 @@ This app provides an intuitive interface that allows users to:
 Make sure you have Flutter installed. Then:
 
 ```bash
-git clone https://github.com/your-username/unit_converter_flutter.git
-cd unit_converter_flutter
+git clone https://github.com/Airin106/unit_converter.git
+cd unit_converter
 flutter pub get
 flutter run
