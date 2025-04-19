@@ -2,7 +2,7 @@
 
 A beautifully designed Flutter application for converting values between various **Distance** and **Temperature** units.
 
-> Developed by **Tahara Iirin Tithy**  
+> Developed by **Tahara Irin Tithy**  
 > **ID:** 0182220012101091  
 
 ---
